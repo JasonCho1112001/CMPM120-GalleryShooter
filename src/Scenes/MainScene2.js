@@ -222,7 +222,7 @@ class MainScene2 extends Phaser.Scene {
                 from: 0,
                 to: 1,
                 delay: i * 2000,
-                duration: 12000,
+                duration: 4000,
                 ease: 'Sine.easeInOut',
                 repeat: -1,
                 yoyo: true,
