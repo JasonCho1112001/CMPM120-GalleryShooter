@@ -1,12 +1,10 @@
-**Bullet Time**
+**McShooter**
 
-Multiple examples of how to implement gallery shooter style bullet shooting in Phaser 3
-without using Arcade Physics.
+Playable Link:
+https://jasoncho1112001.github.io/CMPM120-GalleryShooter/
 
-* Single bullet
-* Variable size array of bullet sprites
-* Fixed size array of bullet sprites
-* Group object for bullets
-* Using a sprite subclass for the player avatar and bullets, also uses group objects
+CMPM 120 Gallery Shooter Project by Jason Cho
+
+Based off of BulletTime 
 
 Uses [Kenny Assets](https://kenney.nl/assets/), with gratitude.
