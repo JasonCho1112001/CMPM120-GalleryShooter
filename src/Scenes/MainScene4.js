@@ -76,7 +76,7 @@ class MainScene4 extends Phaser.Scene {
         my.sprite.bulletGroup.propertyValueSet("speed", this.bulletSpeed);
 
         // update HTML description
-        document.getElementById('description').innerHTML = '<h2>Ultra Hard Level</h2><br>A: left // D: right // Space: fire/emit // S: Next Scene'
+        document.getElementById('description').innerHTML = '<h2>Ultra Hard Level</h2><br>A: left // D: right // Space: fire/emit'
         
         
 
